@@ -1,0 +1,3 @@
+#Archivos para ignorar al momento de hacer un commit
+#Una buena práctica es no subir al repositorio los archivos binarios.
+*.jpg
